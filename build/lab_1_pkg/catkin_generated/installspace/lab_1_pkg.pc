@@ -1,0 +1,8 @@
+prefix=/home/rounak99/catkin_ws/install
+
+Name: lab_1_pkg
+Description: Description of lab_1_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
